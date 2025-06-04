@@ -6,30 +6,4 @@
     <loc>https://anime-sama-fr4.pages.dev/</loc>
     <priority>1.0</priority>
   </url>
-
-  <url>
-    <loc>https://anime-sama.biz/508-naruto.html</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://anime-sama.biz/1521-one-piece.html</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://anime-sama.biz/1-demon-slayer.html</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://anime-sama.biz/41-jujutsu-kaisen.html</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://anime-sama.biz/63-lattaque-des-titans.html</loc>
-    <priority>0.8</priority>
-  </url>
-
 </urlset>
